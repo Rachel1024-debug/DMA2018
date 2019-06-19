@@ -1,1 +1,40 @@
-<h2> Rachel Santos </h2>
+
+<html>
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+  
+    <h1>My Story</h1>
+    
+    <div>
+      <img src="boy.png">
+      <p>"Hey Monica!"</p>
+    </div>
+    <div>
+      <img src="girl.png">
+      <p>"What George?"</p>
+    </div>
+    <div>
+      <img src="boy.png">
+      <p>"I’m thinking about removing my spine."</p>
+    </div>
+    <div>
+      <img src="girl.png">
+      <p>"Uhm... uh...." (in head) you need help, man</p>
+    </div>
+    <div>
+      <img src="boy.png">
+      <p>"I just kinda feel like it’s only holding me back. HAHAHAHHAH"</p>
+    </div>
+    <div>
+      <img src="girl.png">
+      <p>*falls into depression*</p>
+    </div>
+    
+    
+  </body>
+
+</html>
